@@ -5,7 +5,7 @@ I gladly welcome contributions to my code.
 <br>
 Feel free to reach me on <a href = "mailto:atienophyllis032@gmail.com?subject=subject text"> my email </a> or better still DM on <a href = "https://twitter.com/___Leria"> Twitter </a><br>
  ⚡ Fun fact: ...I'm not a total nerd...I sing pretty well too.<br><br>
-Pleasure meeting you<b>BYE</b>
+Pleasure meeting you <b>BYE!</b>
 <br><br>
 <a href="https://github.com/sonylomo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phyleria&show_icons=true&include_all_commits=true&theme=cobalt" alt="Sony's github stats" />
