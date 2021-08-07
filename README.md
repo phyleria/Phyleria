@@ -1,7 +1,10 @@
 ### Howdy there stranger 👋,
 
 Thanks for finding me 😄. <br><br>
-I'm welcome to contributions and contact me on <a href = "mailto:atienophyllis032@gmail.com?subject=subject text"> my email </a>
+I gladly welcome contributions to my codes.
+<br><br>
+You can contact me on <a href = "mailto:atienophyllis032@gmail.com?subject=subject text"> my email </a> or better still DM on <a href = "https://twitter.com/___Leria"> Twitter </a>
+<br><br>
 <a href="https://github.com/sonylomo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phyleria&show_icons=true&include_all_commits=true&theme=cobalt" alt="Sony's github stats" />
 </a>
