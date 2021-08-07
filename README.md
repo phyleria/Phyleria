@@ -7,7 +7,7 @@ Feel free to reach me on <a href = "mailto:atienophyllis032@gmail.com?subject=su
  ⚡ Fun fact: ...I'm not a total nerd...I sing pretty well too.<br><br>
 Pleasure meeting you <b>BYE!</b>
 <br><br>
-<a href="https://github.com/sonylomo/github-readme-stats">
+<a href="https://github.com/phyleria/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phyleria&show_icons=true&include_all_commits=true&theme=cobalt" alt="Sony's github stats" />
 </a><br><br>
 ![](https://komarev.com/ghpvc/?username=phyleria&color=blueviolet)
