@@ -10,7 +10,7 @@ Pleasure meeting you <b>BYE!</b>
 <a href="https://github.com/sonylomo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phyleria&show_icons=true&include_all_commits=true&theme=cobalt" alt="Sony's github stats" />
 </a><br><br>
-![](https://komarev.com/ghpvc/?username=phyleria&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=phyleria&color=blue)
 
 <!--
 **phyleria/phyleria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
