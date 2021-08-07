@@ -1,6 +1,7 @@
-### Howdy there stranger 👋
+### Howdy there stranger 👋,
 
-Thanks for finding me 😄 <br><br>
+Thanks for finding me 😄. <br><br>
+I'm welcome to contributions and contact me on <a href = "mailto:atienophyllis032@gmail.com?subject=subject text"> my email </a>
 <a href="https://github.com/sonylomo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phyleria&show_icons=true&include_all_commits=true&theme=cobalt" alt="Sony's github stats" />
 </a>
