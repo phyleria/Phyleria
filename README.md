@@ -4,7 +4,7 @@ Thanks for finding me 😄. <br><br>
 I gladly welcome contributions to my code.
 <br>
 Feel free to reach me on <a href = "mailto:atienophyllis032@gmail.com?subject=subject text"> my email </a> or better still DM on <a href = "https://twitter.com/___Leria"> Twitter </a><br>
- ⚡ Fun fact: ...I'm not a total nerd...I sing pretty well too.<br><br>
+ 
 Pleasure meeting you <b>BYE!</b>
 <br><br>
 <a href="https://github.com/phyleria/github-readme-stats">
