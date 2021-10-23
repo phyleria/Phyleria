@@ -1,9 +1,10 @@
 ### Howdy there stranger 👋,
 
 Thanks for finding me 😄. <br><br>
-I gladly welcome contributions to my code.
+I am an open-source advocate and a lover of tech communities. 
+⚡ Fun fact: The most flexible part of my body is my nose 😄
 <br>
-Feel free to reach me on <a href = "mailto:atienophyllis032@gmail.com?subject=subject text"> email </a> or better still DM on <a href = "https://twitter.com/___Leria"> Twitter </a><br>
+I gladly welcome contributions to my code.
  
 Pleasure meeting you <b>BYE!</b>
 <br><br>
