@@ -3,7 +3,7 @@
 Thanks for finding me 😄. <br><br>
 I gladly welcome contributions to my code.
 <br>
-Feel free to reach me on <a href = "mailto:atienophyllis032@gmail.com?subject=subject text"> my email </a> or better still DM on <a href = "https://twitter.com/___Leria"> Twitter </a><br>
+Feel free to reach me on <a href = "mailto:atienophyllis032@gmail.com?subject=subject text"> email </a> or better still DM on <a href = "https://twitter.com/___Leria"> Twitter </a><br>
  
 Pleasure meeting you <b>BYE!</b>
 <br><br>
