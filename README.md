@@ -11,9 +11,9 @@ Pleasure meeting you <b>BYE!</b>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phyleria&show_icons=true&include_all_commits=true&theme=cobalt" alt="phyleria's github stats" />
 </a><br><br>
 ![](https://komarev.com/ghpvc/?username=phyleria&color=blueviolet)
- <a href="https://www.linkedin.com/in/phyllis-atieno-ab7826182/">
+ <a href="https://www.linkedin.com/in/phyllis-atieno-ab7826182/"><br><br>
     <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
-  </a><br><br>
+  </a>
   <a href="https://twitter.com/___Leria">
     <img align="left" alt="Hargun | Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
   </a>
