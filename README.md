@@ -1,7 +1,8 @@
 ### Howdy there stranger 👋,
-x-special/nautilus-clipboard
-copy
-file:///home/phyllis/Downloads/Life%20is%20simple.%20Love%20more,%20worry%20less%20....mp4
+
+
+file:///home/phyllis/Downloads/Life%20is%20simple.%20Love%20more,%20worry%20less%20...gif
+
 
 Thanks for finding me 😄. <br><br>
 -I am an open-source advocate and a lover of tech communities. <br>
