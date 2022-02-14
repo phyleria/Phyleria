@@ -1,5 +1,5 @@
 ### Howdy there stranger 👋,
-![gif](https://github.com/phyleria/Phyleria/blob/main/phy.gif)
+https://raw.githubusercontent.com/phyleria/Phyleria/main/Life%20is%20simple.%20Love%20more%2C%20worry%20less%20....mp4
 
 
 
