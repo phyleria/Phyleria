@@ -3,7 +3,7 @@
 Thanks for finding me 😄. <br><br>
 -I am an open-source advocate and a lover of tech communities. <br>
 -I gladly welcome contributions to my code.<br>
-🌱 Currently Learning Docker and Kubernetes, Power Bi <br>
+🌱 Currently Learning Docker and Kubernetes, GCP, Power Bi <br>
 ⚡ Fun fact: The most flexible part of my body is my nose 😄
 <br>
 
