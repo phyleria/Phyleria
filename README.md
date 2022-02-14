@@ -1,5 +1,5 @@
 ### Howdy there stranger 👋,
-![gif](programming.gif)
+![gif](https://github.com/phyleria/Phyleria/blob/main/phy.gif)
 
 
 
