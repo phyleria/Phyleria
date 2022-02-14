@@ -1,4 +1,5 @@
 ### Howdy there stranger 👋,
+<img src="https://github.com/phyleria/phyleria/blob/master/output.gif" alt="Here is a little bit about me!">
 
 Thanks for finding me 😄. <br><br>
 I am an open-source advocate and a lover of tech communities. <br>
