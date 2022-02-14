@@ -1,5 +1,9 @@
 ### Howdy there stranger 👋,
 
+![gif](x-special/nautilus-clipboard
+copy
+file:///home/phyllis/Downloads/phy.gif
+)
 
 file:///home/phyllis/Downloads/Life%20is%20simple.%20Love%20more,%20worry%20less%20...gif
 
