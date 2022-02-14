@@ -1,5 +1,4 @@
 ### Howdy there stranger 👋,
-https://github.com/phyleria/Phyleria/blob/main/Life%20is%20simple.%20Love%20more%2C%20worry%20less%20....mp4
 
 Thanks for finding me 😄. <br><br>
 -I am an open-source advocate and a lover of tech communities. <br>
