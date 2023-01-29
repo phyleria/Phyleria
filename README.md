@@ -4,8 +4,8 @@ Thanks for finding me 😄. <br><br>
 -  I am a cloud & open-source advocate and a lover of tech communities. <br>
 -  I gladly welcome contributions to my code.<br>
 
-🌱 Currently Learning Docker, Kubernetes and GCP <br>
-⚡ Fun fact: The most flexible part of my body is my nose 😄
+ 🌱 Currently Learning Docker, Kubernetes and GCP <br>
+ ⚡ Fun fact: The most flexible part of my body is my nose 😄
 <br>
 
  
