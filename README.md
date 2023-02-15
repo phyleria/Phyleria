@@ -1,4 +1,4 @@
-### Hey there stranger 👋,
+### Howdy there stranger 👋,
 
 Thanks for finding me 😄. <br><br>
 -I am a cloud & open-source advocate and a lover of tech communities. <br>
