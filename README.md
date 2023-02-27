@@ -8,7 +8,7 @@ Thanks for finding me 😄. <br><br>
 <br>
 
  
-Pleasure meeting you <b>BYE!</b>
+Pleasure e-meeting you <b>BYE!</b>
 <br><br>
 <a href="https://github.com/phyleria/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phyleria&show_icons=true&include_all_commits=true&theme=cobalt" alt="phyleria's github stats" />
