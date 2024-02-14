@@ -1,9 +1,11 @@
-### Howdy there stranger 👋,
+### Howdy there stranger 👋
 
 <a href="https://github.com/phyleria/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phyleria&show_icons=true&include_all_commits=true&theme=cobalt" alt="phyleria's github stats" />
 </a><br><br>
+
 ![](https://komarev.com/ghpvc/?username=phyleria&color=blueviolet)
+
  <a href="https://www.linkedin.com/in/phyllis-atieno-ab7826182/"><br><br>
     <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
