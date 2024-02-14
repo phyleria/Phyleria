@@ -1,15 +1,5 @@
 ### Howdy there stranger 👋,
 
-Thanks for finding me 😄. <br><br>
--I am a cloud & open-source advocate and a lover of tech communities. <br>
--I gladly welcome contributions to my code.<br>
-🌱 Currently working on my API Development Skills <br>
-⚡ Fun fact: The most flexible part of my body is my nose 😄
-<br>
-
- 
-Pleasure e-meeting you <b>BYE!</b>
-<br><br>
 <a href="https://github.com/phyleria/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phyleria&show_icons=true&include_all_commits=true&theme=cobalt" alt="phyleria's github stats" />
 </a><br><br>
